@@ -2,5 +2,5 @@
 
 - GIS final projects
 - Project repository for Spring 2020 
-- Spring 2020 Projects - https://gis-nspe-tns.github.io/spring20-projects
+- Spring 2020 Projects - https://gis-nspe-tns.github.io/spring2020-projects
 
